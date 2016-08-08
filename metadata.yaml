@@ -1,0 +1,47 @@
+_repo: Yl-snousemus-II_12604
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Järnefelt, Arvid
+    aliases:
+    - Kahila, Hilja
+    - Jarnefelt, Arvid
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '4252'
+    url: http://www.gutenberg.org/2009/agents/4252
+    wikipedia: http://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Translation of Voskresenie.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12604'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Change -- Religious aspects -- Fiction'
+- !lcsh 'Atonement -- Fiction'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Russia -- Fiction'
+- !lcsh 'Social justice -- Russia -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Prostitutes -- Russia -- Fiction'
+- !lcsh 'Trials (Murder) -- Russia -- Fiction'
+- GITenberg
+title: Ylösnousemus II
+url: http://www.gutenberg.org/ebooks/12604
